@@ -73,7 +73,7 @@ a.text-primary {
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   font-family: "Inter", sans-serif;
-  color: #black; }
+  color: black; }
 
 .btn {
   padding-top: 15px;
@@ -230,7 +230,8 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     color: #ffffff; }
 
 .menu-absolute {
-  position: absolute !important; }
+  position: static !important; 
+}
 
 .btn-book {
   position: absolute;
@@ -592,8 +593,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   background: transparent; }
 
 #sticky-wrapper.is-sticky .sticky-nav {
-  padding-top: 10px;
-  padding-bottom: 10px;
+
   background: white;
   -webkit-box-shadow: 4px 0 20px -5px rgba(0, 0, 0, 0.1);
   box-shadow: 4px 0 20px -5px rgba(0, 0, 0, 0.1);
