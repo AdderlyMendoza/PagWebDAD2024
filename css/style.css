@@ -14,6 +14,7 @@ body {
   background-color: #ffffff;
   overflow-x: hidden;
   font-size: 16px;
+  text-align: justify;
   color: #666; }
   body:before {
     content: "";
@@ -71,7 +72,7 @@ a.text-primary {
     color: #136ad5 !important; }
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
-  font-family: "Display Playfair", serif;
+  font-family: "Inter", sans-serif;
   color: #black; }
 
 .btn {
@@ -89,8 +90,8 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     -webkit-box-shadow: none;
     box-shadow: none; }
   .btn.btn-primary {
-    background: #136ad5;
-    border-color: #136ad5; }
+    background: #6755a2;
+    border-color: #c8b3d7; }
     .btn.btn-primary:hover {
       border-color: #1573e8;
       background: #1573e8; }
@@ -920,7 +921,8 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
 .line-bottom {
   position: relative;
   padding-bottom: 0px;
-  color: #136ad5; }
+  font-weight: bold;
+  color: black; }
   .line-bottom:before {
     display: none;
     content: "";
@@ -1606,7 +1608,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   margin-bottom: 30px; }
 
 .site-footer {
-  background: #136ad5;
+  background: #6755a2;
   font-size: 14px;
   color: #ffffff;
   padding: 70px 0; }
