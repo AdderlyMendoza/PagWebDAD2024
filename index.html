@@ -47,16 +47,13 @@
     <div class="site-mobile-menu-body"></div>
   </div>
 
-
   <!-- BARRA DE NAVEGACION -->
-  <nav class="site-nav mb-5" style="height: 10rem;">
+  <nav class="site-nav mb-5 fixed">
     <div class="pb-2 top-bar mb-3">
       <div class="container">
         <div class="row align-items-center">
 
           <div class="col-6 col-lg-9">
-            <!-- <a href="contact.html" class="small mr-3"><span class="icon-question-circle-o mr-2"></span> <span
-                class="d-none d-lg-inline-block">Contáctenos</span></a> -->
             <a href="#" class="small mr-3"><span class="icon-phone mr-2"></span> <span
                 class="d-none d-lg-inline-block">(+51) 957 734 361</span></a>
             <a href="#" class="small mr-3"><span class="icon-envelope mr-2"></span> <span
@@ -64,14 +61,10 @@
           </div>
 
           <div class="col-6 col-lg-3 text-right">
-            <a href="https://www.facebook.com/dadunapuno/" class="small mr-3">
+            <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-1"
+              href="https://www.facebook.com/dadunapuno/">
               <span class="icon-facebook"></span>
-
             </a>
-            <!-- <a href="register.html" class="small">
-              <span class="icon-person"></span>
-              Tik Tok
-            </a> -->
           </div>
 
         </div>
@@ -79,32 +72,49 @@
     </div>
 
     <div class="sticky-nav js-sticky-header">
-      <div class="container position-relative ">
-        <div class="site-navigation text-center ">
-          <a href="index.html" class="logo menu-absolute m-0">
-            <img src="images/dad/unap.png" style="max-width: 180px; height: 100px;" alt="DAD 2024 Logo">
-          </a>
+      <div class="container position-relative">
+        <div class="site-navigation">
 
-          <ul class="js-clone-nav d-none d-lg-inline-block site-menu">
-            <li class="active"><a href="index.html">INICIO</a></li>
-            <li class="has-children">
-              <a href="#">PROCESOS VIGENTES</a>
-              <ul class="dropdown">
-                <li><a href="examGeneral.html">Examen GENERAL 2024-II</a></li>
-                <li><a href="examCepre.html">Examen CEPREUNA 2024-II</a></li>
-                <!-- <li><a href="#">Examen Extraordinario</a></li> -->
+          <nav class="navbar navbar-expand-lg navbar-light row">
+
+            <a href="index.html" class="logo menu-absolute m-0 col-4 text-left">
+              <img src="images/logo-una-puno.png" style="max-width: 170px; height: auto;" alt="DAD 2024 Logo">
+            </a>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText"
+              aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarText">
+
+              <ul class="navbar-nav js-clone-nav d-none d-lg-inline-block site-menu">
+                <li class="active"><a href="index.html">INICIO</a></li>
+                <li class="has-children">
+                  <a href="#">PROCESOS VIGENTES</a>
+                  <ul class="dropdown">
+                    <li><a href="examGeneral.html">Examen GENERAL 2024-II</a></li>
+                    <li><a href="examCepre.html">Examen CEPREUNA 2024-II</a></li>
+                    <!-- <li><a href="#">Examen Extraordinario</a></li> -->
+                  </ul>
+                </li>
+                <!-- <li><a href="index.html">NOTICIAS</a></li> -->
+                <li><a href="contact.html">CONTACTO</a></li>
               </ul>
-            </li>
-            <!-- <li><a href="index.html">Noticias</a></li> -->
-            <li><a href="contact.html">CONTACTO</a></li>
-          </ul>
 
-          <!-- <a href="#" class="btn-book btn btn-secondary btn-sm menu-absolute">Enroll Now</a> -->
-          <a href="https://inscripciones.admision.unap.edu.pe/ver-puntaje-alcanzado" class="btn-book btn btn-primary btn-sm menu-absolute">RESULTADO HISTÓRICO 2024-I</a>
+              <a href="https://inscripciones.admision.unap.edu.pe/ver-puntaje-alcanzado"
+                class=" btn btn-dark btn-sm ml-auto">RESULTADO HISTÓRICO 2024-I</a>
+
+            </div>
+          </nav>
 
         </div>
       </div>
     </div>
+
+
+
+
   </nav>
 
   <!-- PANTALLA DE INICIO -->
@@ -121,13 +131,12 @@
             <div class="row justify-content-center ">
 
               <div class="col-lg-10 text-center ">
-                <a href="#" href="#" data-fancybox data-aos="fade-up" data-aos-delay="0"
-                  class="caption mb-4 d-inline-block" style="font-size: 1rem;">10 y 11 de agosto</a>
+                <span class="caption mb-4 d-inline-block" style="font-size: 1rem;">10 y 11 de agosto</span>
+
 
                 <h1 class="mb-4 heading text-white" data-aos="fade-up" data-aos-delay="100">EXAMEN GENERAL</h1>
                 <p class="mb-0" data-aos="fade-up" data-aos-delay="300">
-                  <a href="#" class="btn btn-dange"
-                    style="background-color: #6755a2; border-color: #6610f2;">Preinscripción</a>
+                  <a href="#" class="btn btn-danger">Preinscripción</a>
                 </p>
 
               </div>
@@ -140,18 +149,18 @@
             <div class="row justify-content-center ">
 
               <div class="col-lg-10 text-center ">
-                <a href="#" href="https://vimeo.com/342333493" data-fancybox data-aos="fade-up" data-aos-delay="0"
-                  class="caption mb-4 d-inline-block" style="font-size: 1rem;">03 y 04 de agosto</a>
+                <!-- <a href="https://vimeo.com/342333493" data-fancybox data-aos="fade-up" data-aos-delay="0"
+                  class="caption mb-4 d-inline-block" style="font-size: 1rem;">03 y 04 de agosto</a> -->
+                <span class="caption mb-4 d-inline-block" style="font-size: 1rem;">03 y 04 de agosto</span>
 
                 <h1 class="mb-4 heading text-white" data-aos="fade-up" data-aos-delay="100">EXAMEN CEPREUNA</h1>
                 <p class="mb-0" data-aos="fade-up" data-aos-delay="300">
                   <!-- <a href="#" class="btn btn-secondary">Preinscripción</a> -->
                   <a href="#" class="btn btn-primary"
-                    style="background-color: #6755a2; border-color: #6610f2;">Preinscripción</a>
+                    style="background-color: #6755a2; border-color: #6755a2;">Preinscripción</a>
                 </p>
 
               </div>
-
 
             </div>
 
@@ -159,63 +168,78 @@
 
         </div>
 
-      </div> <!-- /.row -->
-    </div> <!-- /.container -->
+      </div>
+    </div>
 
-  </div> <!-- /.untree_co-hero -->
+  </div>
 
 
-  <!-- CEPRE Y GENERAL MAS INFORMACION -->
+  <!-- CEPRE Y GENERAL MÁS INFORMACION -->
   <div class="untree_co-section bg-light">
     <div class="container">
       <div class="row justify-content-center mb-5">
         <div class="col-lg-7 text-center" data-aos="fade-up" data-aos-delay="0">
-          <strong><h2 class="line-bottom text-center mb-4">PROCESO DE ADMISIÓN</h2></strong> 
-          <p>La Universidad Nacional del Altiplano Puno brinda los siguientes procesos de admisión para el semestre académico 2024-II.
+          <strong>
+            <h2 class="line-bottom text-center mb-4">PROCESO DE ADMISIÓN</h2>
+          </strong>
+          <p>La Universidad Nacional del Altiplano Puno brinda los siguientes procesos de admisión para el semestre
+            académico 2024-II.
           </p>
         </div>
       </div>
       <div class="row align-items-stretch">
+
         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
           <div class="media-h d-flex h-100">
             <figure>
               <img src="images/dad/2.png" alt="Image">
             </figure>
-            <div class="media-h-body">
-              <h2 class="mb-3"><a href="#">EXAMEN GENERAL 2024-II</a></h2>
-              <div class="meta mb-2">
-                <span class="icon-calendar mr-2"></span>
-                <span>10 Y 11 de agosto</span>
+            <div class="media-h-body d-flex flex-column justify-content-between">
+              <div>
+                <h2 class="mb-3 text-primary">EXAMEN GENERAL 2024-II</h2>
+                <div class="meta mb-2">
+                  <span class="icon-calendar mr-2"></span>
+                  <span>10 Y 11 de agosto</span>
+                </div>
+                <p>Se convoca una vez por semestre. Para ser postulante se
+                  requiere haber concluido y aprobado satisfactoriamente
+                  los estudios de Educación Secundaria.</p>
               </div>
-              <p>Se convoca una vez por semestre. Para ser postulante se
-                requiere haber concluido y aprobado satisfactoriamente
-                los estudios de Educación Secundaria.</p>
-              <p><a href="examGeneral.html" class="btn btn-danger" style="background-color: #6755a2; border-color: #6610f2;;">Más información</a></p>
+              <p><a href="examGeneral.html" class="btn btn-danger">Más información</a></p>
             </div>
           </div>
         </div>
+
         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
           <div class="media-h d-flex h-100">
             <figure>
               <img src="images/dad/3.png" alt="Image">
             </figure>
-            <div class="media-h-body">
-              <h2 class="mb-3"><a href="#">EXAMEN CEPREUNA 2024-II</a></h2>
-              <div class="meta mb-2">
-                <span class="icon-calendar mr-2"></span>
-                <span>03 y 04 de agosto</span>
+            <!-- <div class="media-h-body"> -->
+            <div class="media-h-body d-flex flex-column justify-content-between">
+              <div>
+                <h2 class="mb-3 text-primary">EXAMEN CEPREUNA 2024-II</h2>
+                <div class="meta mb-2">
+                  <span class="icon-calendar mr-2"></span>
+                  <span>03 y 04 de agosto</span>
+                </div>
+                <p>Se convoca una vez por semestre. Para ser postulante,
+                  debe haber concluido la preparación en el Centro
+                  Preuniversitario UNA-Puno, presentar la <strong>Constancia de No Adeudar</strong>
+                  y haber concluido satisfactoriamente los estudios de Educación Secundaria.</p>
               </div>
-              <p>Se convoca una vez por semestre. Para ser postulante,
-                debe haber concluido la preparación en el Centro
-                Preuniversitario UNA-Puno, presentar la <strong>Constancia de No
-                  Adeudar</strong>  y haber concluido satisfactoriamente los estudios de Educación Secundaria.</p>
-              <p><a href="examCepre.html" class="btn btn-danger" style="background-color: #6755a2; border-color: #6610f2;">Más información</a></p>
+              <p><a href="examCepre.html" class="btn btn-danger"
+                  style="background-color: #6755a2; border-color: #6755a2;">Más información</a></p>
             </div>
           </div>
+
         </div>
+
+
+
       </div>
     </div>
-  </div> <!-- /.untree_co-section -->
+  </div>
 
   <!-- CONSEJOS PARA UN PROCESO DE INSCRIPCIÓN SEGURO -->
   <div class="untree_co-section">
@@ -338,9 +362,12 @@
             <h2 class="line-bottom mb-4">CUIDADO CON LAS MAFIAS</h2>
           </div>
 
-          <p data-aos="fade-up" data-aos-delay="100"><STROng>🚨 ¡IMPORTANTE AVISO PARA TODOS LOS POSTULANTES! 🚨</STROng> <br>
-            No te dejes engañar por personas inescrupulosas. La Universidad Nacional del Altiplano Puno, por medio de la Dirección de Admisión, se compromete contigo para que tu proceso de admisión sea seguro y transparente.
-            <br>👨‍🎓 ¡Juntos contra la estafa! 👩‍🎓</p>
+          <p data-aos="fade-up" data-aos-delay="100"><STROng>🚨 ¡IMPORTANTE AVISO PARA TODOS LOS POSTULANTES!
+              🚨</STROng> <br>
+            No te dejes engañar por personas inescrupulosas. La Universidad Nacional del Altiplano Puno, por medio de la
+            Dirección de Admisión, se compromete contigo para que tu proceso de admisión sea seguro y transparente.
+            <br>👨‍🎓 ¡Juntos contra la estafa! 👩‍🎓
+          </p>
 
           <ul class="ul-check list-unstyled mb-5 primary" data-aos="fade-up" data-aos-delay="200">
             <p>1️⃣Verifica siempre la información en nuestras páginas oficiales.</p>
@@ -348,7 +375,9 @@
             <p>3️⃣Nunca compartas tu información personal con desconocidos.</p>
             <p>📞 Contacta con nosotros ante cualquier duda o sospecha.</p>
           </ul>
-          <p data-aos="fade-up" data-aos-delay="300"><a href="https://www.facebook.com/photo?fbid=1035209144722645&set=pcb.1035209374722622" class="btn btn-primary">mas info</a></p>
+          <p data-aos="fade-up" data-aos-delay="300"><a
+              href="https://www.facebook.com/photo?fbid=1035209144722645&set=pcb.1035209374722622"
+              class="btn btn-primary">más información</a></p>
 
         </div>
         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="0">
@@ -491,7 +520,7 @@
           <a href="https://www.youtube.com/watch?v=iNZMkSgz3b0" data-fancybox class="video-wrap">
             <span class="play-wrap"><span class="icon-play"></span></span>
             <img src="images/img-school-4-min.jpg" alt="Image" class="img-fluid rounded"> <!-- CAMBIAR IMAGEN -->
-          <!-- </a>
+  <!-- </a>
         </div>
       </div>
     </div>
@@ -715,7 +744,6 @@
     </div>
   </div> -->
 
-
   <!-- FOOTER -->
   <div class="site-footer">
     <div class="container">
@@ -735,7 +763,7 @@
               <address>UNIVERSIDAD NACIONAL DEL ALTIPLANO - PUNO <br>DIRECCIÓN DE ADMISIÓN</ad>
             </strong>
             <h3></h3>
-            <address> <strong>Horario de atención:</strong>  Lunes a viernes de 08:30 am a 05:00 pm</address>
+            <address> <strong>Horario de atención:</strong> Lunes a viernes de 08:30 am a 05:00 pm</address>
           </div> <!-- /.widget -->
           <div class="widget">
             <address>Facebook Oficial</address>
@@ -757,7 +785,7 @@
         </div>
 
       </div> <!-- /.row -->
-
+      <hr>
       <div class="row mt-5">
         <div class="col-12 text-center">
           <p>Direccion de Admision UNA - Puno &copy;
@@ -766,14 +794,9 @@
         </div>
       </div>
     </div> <!-- /.container -->
-  </div> <!-- /.site-footer -->
+  </div>
 
 
-
-
-
-
-  
   <div id="overlayer"></div>
   <div class="loader">
     <div class="spinner-border" role="status">
