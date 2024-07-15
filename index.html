@@ -111,7 +111,7 @@
                   </ul>
                 </li>
                 <!-- <li><a href="index.html">NOTICIAS</a></li> -->
-                <li><a href="contact.html">CONTACTO</a></li>
+                <li><a href="#">CONTACTO</a></li>
               </ul>
 
               <a href="https://inscripciones.admision.unap.edu.pe/ver-puntaje-alcanzado"
@@ -170,8 +170,9 @@
                 <h1 class="mb-4 heading text-white" data-aos="fade-up" data-aos-delay="100">EXAMEN CEPREUNA</h1>
                 <p class="mb-0" data-aos="fade-up" data-aos-delay="300">
                   <!-- <a href="#" class="btn btn-secondary">Preinscripción</a> -->
-                  <a href="#" class="btn btn-primary"
-                    style="background-color: #6755a2; border-color: #6755a2;">Preinscripción</a>
+                  <!-- <a href="https://inscripciones.admision.unap.edu.pe/cepreuna-2024-II/preinscripcion" class="btn btn-primary"
+                    style="background-color: #6755a2; border-color: #6755a2;">Preinscripción</a> -->
+                    <button class="btn btn-primary" id="btnPreinscripcion1">Preinscripción</button>
                 </p>
 
               </div>
@@ -203,7 +204,31 @@
           if (result.isConfirmed) {
             // Aquí puedes manejar la acción de confirmación, como enviar un formulario o redirigir
             // Swal.fire('¡Preinscripción realizada!', 'Has sido preinscrito correctamente.', 'success');
-            window.location.href = 'https://sweetalert2.github.io/#examples';
+            window.location.href = 'https://inscripciones.admision.unap.edu.pe/general-2024-II/preinscripcion';
+            
+          }
+        });
+      });
+    });
+  </script>
+
+  <script>
+    $(document).ready(function () {
+      $('#btnPreinscripcion1').click(function () {
+        Swal.fire({
+          title: '¿Preinscripción al EXAMEN CEPREUNA 2024-II?',
+          text: '¿Deseas proceder con la preinscripción?',
+          icon: 'warning',
+          showCancelButton: true,
+          confirmButtonColor: '#3085d6',
+          confirmButtonText: 'Sí, preinscribir',
+          cancelButtonColor: '#d33',
+          cancelButtonText: 'Cancelar'
+        }).then((result) => {
+          if (result.isConfirmed) {
+            // Aquí puedes manejar la acción de confirmación, como enviar un formulario o redirigir
+            // Swal.fire('¡Preinscripción realizada!', 'Has sido preinscrito correctamente.', 'success');
+            window.location.href = 'https://inscripciones.admision.unap.edu.pe/cepreuna-2024-II/preinscripcion';
             
           }
         });
@@ -817,7 +842,7 @@
           <div class="widget">
             <address><strong>CONTACTO</strong></address>
             <address><strong>Dirección:</strong> Av. Floral Nº 1153 - Puno, Puno, Peru</address>
-            <address><strong>Llamadas: </strong> (+51) 987 654 321</address>
+            <address><strong>Llamadas: </strong> (+51) 957 734 361</address>
             <address> <strong>Email:</strong> dgadmision@unap.edu.pe</address>
           </div>
         </div>
