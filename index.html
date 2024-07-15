@@ -806,7 +806,13 @@
       </div>
     </div>
   </div> -->
-
+<script>
+    function updateCSS() {
+        var link = document.querySelector('link[rel="stylesheet"]');
+        link.href = link.href.split('?')[0] + '?' + new Date().getTime();
+    }
+    window.onload = updateCSS;
+</script>
   <!-- FOOTER -->
   <div class="site-footer">
     <div class="container">
