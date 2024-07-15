@@ -763,6 +763,13 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   .untree_co-section .heading strong {
     font-weight: 700; }
 
+    .bg-img {
+      background-image: url("../images/dad/puerta.png");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+
 .position-relative {
   position: relative; }
 
@@ -1213,6 +1220,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   padding: 20px;
   background: rgba(19, 106, 213, 0.05);
   border-radius: 4px;
+  background-color: white;
   text-decoration: none !important; }
   .category, .category h3, .category span {
     -webkit-transition: .3s all ease;
