@@ -1247,11 +1247,11 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     font-size: 30px;
     line-height: 40px; }
   .category:hover {
-    background: #00aeff; }
+    background: #5a43a3; }
     .category:hover h3, .category:hover span {
       color: #ffffff; }
     .category:hover span {
-      color: rgba(255, 255, 255, 0.5); }
+      color: white; }
 
 .section-title .heading {
   font-size: 30px;
