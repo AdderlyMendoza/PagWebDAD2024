@@ -1,0 +1,742 @@
+                    UNIVERSIDAD NACIONAL DEL ALTIPLANO DE PUNO
+                        DIRECCIÓN DE ADMISIÓN
+                   EXAMEN DE ADMISION CEPREUNA 2024-II
+ ========================================================================================
+
+               CLASIFICADOS PARA EL EXAMEN DEL DOMINGO 4 AGOSTO DEL 2024
+
+ [ 3 ]   ARQUITECTURA Y URBANISMO
+
+ 
+   PUESTO   DNI            APELLIDOS Y NOMBRES                         PUNTAJE
+ ========================================================================================
+     1     73521513     MULLISACA MAMANI, EDY LEO                               2656.100
+     2     73119413     HINOJOSA GALLEGOS, YENE                                 2336.430
+     3     60982949     QUISPE CASTILLO, JAIR JOSEPH                            2327.320
+     4     71193520     ROJAS CHAGUA, MILAGROS CIELO                            2307.640
+     5     60067299     QUISPE CALCINA, RAQUEL NATIVIDAD                        2288.108
+     6     76874146     MAMANI CUNO, GABRIELA ANGHY                             2172.450
+     7     60982951     MOROCCO MAMANI, SAMUEL ZETO                             2167.600
+     8     60509473     MANGO LOAYZA, JHON                                      2160.160
+     9     73038050     TICONA APAZA, BRAYHAN JESUS                             2123.880
+     10    60759270     SUAÑA ZAPANA, PRISCILA JASMIN                           2103.724
+     11    73041398     LAQUISE CARREON, CRISTHIAN JOSUE                        2086.990
+     12    76944686     MARTINEZ GARCIA, YERSON JAIR                            2082.190
+     13    73303278     QUISPE CHAGUA, NOELIA NATALY                            2070.260
+     14    70791443     ORDOÑEZ BERMUDEZ, NIXON RONAL                           2055.490
+     15    60065413     HUARACHI HUARICALLO, DAIRA MELISA                       2054.420
+     16    71958420     CHOQUEHUANCA SERPA, ROYER EMERSON                       2048.200
+     17    74178545     MAMANI MAMANI, LEONELA REYNA                            2037.680
+     18    60182001     CHAMBI ZAPATA, YESSENIA NATHALY                         2033.220
+     19    60759299     MIRANDA TITO, DAVID GUILLERMO                           2028.104
+     20    70695235     ZEVALLOS VILLAFUERTE, ABIGAIL                           2026.352
+     21    74074801     HALANOCCA HUARACHA, MIGUEL                              2020.640
+     22    70642554     ESPINOZA CHAMBI, WILLIASM ANGELO                        2015.010
+     23    60908925     CALSIN CHOQUELUQUE, LISBETH                             1999.630
+     24    60983102     FUENTES ANCCO, JOSE ANDRE                               1998.432
+     25    76874772     MAMANI VENTURA, LUZ NELYDA                              1992.970
+     26    60908451     MAMANI CHIPANA, BRAYAN ALEXIS                           1986.880
+     27    60857412     TICONA ENCINAS, MEDALY YANIRA                           1978.820
+     28    60982828     MAMANI QUENTA, LUANA ARACELY                            1978.460
+     29    74960025     SUAREZ NINA, MIKY JARITZA                               1977.950
+     30    77576582     TICONA LIMA, ADONIS YESHUA                              1966.550
+     31    75594481     ALFARO ORTEGA, ALEXANDER JEREMY                         1965.120
+     32    73965040     OLAGUIVEL AGUIRRE, YAREMI                               1964.702
+     33    75280251     CHOQUEMALLCO CONDORI, DENIS BRAYAN                      1960.974
+     34    71849276     GALLEGOS PALOMINO, DIEGO EMIRK                          1943.510
+     35    77565734     MARCA AGUILAR, TOMMY LIZARDO                            1943.040
+     36    60224768     ESTUCO ARI, KEVIN FRANK                                 1942.610
+     37    60850628     ORTIZ RAMOS, KAREN YHEMIRA                              1921.720
+     38    75250817     RAMOS TURPO, EDISON YERSY                               1900.680
+     39    75453191     PILCO SUPO, KIARA ROMINA                                1896.700
+     40    72724853     TICONA ARPASI, ANAI CAMILA                              1895.772
+     41    71594999     CATTI RAMOS, RUBEN DARIO                                1891.424
+     42    74150320     MAMANI HUAHUASURI, AYSLI ROCIO                          1882.810
+     43    60983339     ORTIZ MIO, SIGRID                                       1878.300
+     44    74348701     QUISPE VARGAS, CRISTIAN ALDAIR                          1877.780
+     45    60982902     KANQUI MAMANI, TATIANA MELANY                           1869.740
+     46    75213792     HUANCA MONTALVO, JULIO ARMANDO                          1861.370
+     47    60909304     MALAGA AÑAZCO, HENRY DEREK                              1850.482
+ ========================================================================================
+ 2024/08/03 03:35:33 PM
+
+
+
+
+                    UNIVERSIDAD NACIONAL DEL ALTIPLANO DE PUNO
+                        DIRECCIÓN DE ADMISIÓN
+                   EXAMEN DE ADMISION CEPREUNA 2024-II
+ ========================================================================================
+
+               CLASIFICADOS PARA EL EXAMEN DEL DOMINGO 4 AGOSTO DEL 2024
+
+ [ 15 ]   DERECHO
+
+ 
+   PUESTO   DNI            APELLIDOS Y NOMBRES                         PUNTAJE
+ ========================================================================================
+     1     70846622     CHOQUEHUANCA VERA, JUDITH DIONINI                       2800.950
+     2     71953632     VASQUEZ CONDORI, MAYKOL ARON                            2736.670
+     3     75539551     CORA MAMANI, SAUL GERARDO                               2733.140
+     4     60442990     MAMANI CCAMA, DIANA ALEJANDRA                           2642.940
+     5     75308292     PEÑA PINEDA, JAIRO FRANKLIN                             2624.240
+     6     60066858     APAZA SUXSO, NILO REBINIO                               2616.540
+     7     75471044     HUAMAN IDME, RENZO RONALD                               2607.790
+     8     70838416     APAZA AQUINO, LOURDES MADELEYNE                         2607.044
+     9     60983080     PAREDES CAÑAPATAÑA, YAQUELIN LUZ                        2603.290
+     10    75539557     VELASQUEZ HUARACHI, JOHN SNAYDER                        2586.670
+     11    77922914     MEZA ANAHUA, MARIA JOSEFINA                             2580.100
+     12    73624658     QUISPE CANAZA, SARAHI FIORELLA                          2575.780
+     13    73382360     TICONA GARCIA, JOSE FERNANDO                            2573.190
+     14    73817113     CALISAYA CCOPA, MERY MEDALY                             2560.480
+     15    61000725     AROCUTIPA HANCCO, BERENISE                              2551.920
+     16    60200826     RAMOS PACHO, ANTHONY CRISTIANO                          2544.096
+     17    60850305     GONZALES VILCA, ANYELO HAYDN                            2512.490
+     18    74966335     PEREZ APAZA, CARLOS ANDRES                              2503.240
+     19    74528542     SUAÑA JAEN, PAUL ISAAC                                  2496.160
+     20    60765416     MARROQUIN CARLO, MARITZA MELINDA                        2492.280
+     21    60171961     CONDORI ROSAS, MENLI QUERRI                             2483.200
+     22    75712640     PELAES RAMÍREZ, SAYURI MARICIELO NAYET                  2466.120
+     23    63353661     MAMANI BRAVO, BRANDON HEBERT                            2463.190
+     24    60473978     LABRA QUISPE, YADIRA NOHELIA                            2455.670
+     25    73056416     PINTO ZAMATA, ELIZABETH IRMA                            2452.550
+     26    73575042     ANCCO MAMANI, DENNIS CARLO                              2444.870
+     27    60758882     AROAPAZA QUISPE, DALIA NADIN                            2440.570
+     28    73123782     PARI MOLLEAPAZA, ABEL YERMAIN                           2438.148
+     29    60909602     CHAMBI MAMANI, ANYELA SHIOMARA                          2436.270
+     30    73643189     VENTURA COAQUIRA, CARLOS FRANKLIN                       2427.496
+     31    61093369     YUCRA QUISPE, MELISSA JAZLYN                            2426.540
+     32    76987481     CHIPANA QUISPE, ALEJANDRA PILAR                         2409.110
+     33    75851365     YANQUE YANQUE, YESENIA SULMA                            2406.720
+     34    61118542     MAMANI GUTIERREZ, RICARDO                               2404.890
+     35    60758995     DIAZ ESCOBAR, YHOSELYN MARIA                            2404.200
+     36    71945107     SURCO ATAMARI, HERNAN                                   2403.060
+     37    73775935     GONZALES HUANCA, ROY ISAAC                              2402.770
+     38    77431518     CUELA OJEDA, LINDA AUDRED                               2394.228
+     39    60457855     QUISPE CHOQUEHUAYTA, SHANDAL BEATRIZ                    2389.454
+     40    73261233     CATACORA URBINA, MARY LUZDELIA                          2383.930
+     41    72374824     MANCILLA ROMERO, DARCY QUEEN                            2379.452
+     42    75956703     TINTA MAMANI, OMAR IVAN                                 2379.190
+     43    60836788     BEDOYA BENITO, EDUARDO RODRIGO                          2378.090
+     44    60171060     CHUAA HANCCO, CLEVER ANDRE                              2374.940
+     45    76825609     HANCCO MAMANI, IBETH ROSALINDA                          2374.030
+     46    73749419     FLORES LIMA, CIDAN GIOBANI                              2373.266
+     47    76075356     PAUCAR HUANCOLLO, ALEX ANDRE                            2357.400
+     48    72629884     QUIJO CONDORI, YHULIANA JHOMARA                         2348.426
+     49    77058964     HUAMAN PACCI, ROYER LUISMARIO                           2336.942
+     50    73625029     QUISPE QUISPE, MILAGROS FIORELA                         2335.590
+     51    75670790     CALAPUJA GONZALES, LEYDHI ESTEFANY                      2332.710
+     52    70848024     QUISPE MAMANI, EDERI ADONIS                             2328.330
+     53    60759050     SEGUNDO CALSIN, LAURA MARIEL                            2316.390
+     54    72093149     TAPIA LIMACHE, WILDON KELVY                             2305.340
+     55    72880250     PAJA RAMOS, MARIA JULISSA                               2304.720
+     56    75135646     HUANCA CHAHUARA, NATALI                                 2304.682
+     57    60732752     OCHOA AYNA, JOYSI DALIXIA                               2301.430
+     58    72363573     ORTIZ QUISPE, MILAGROS YASMIN                           2300.130
+     59    73823952     QUISPE ZAPATA, JHON BASILIO                             2296.592
+     60    73312119     ALCA LOPEZ, JUNIOR VILER                                2296.000
+     61    77424247     PACO MENDOZA, EDITH SELENA                              2287.980
+     62    76814612     ORDOÑO PARI, ISABEL KAREN                               2287.710
+     63    74352962     CANAZAS SALINAS, IVON ADDANARY                          2276.690
+     64    71333063     CHUQUIMAMANI MAYTA, CLINTON                             2273.950
+     65    61001173     NAVINTA QUISPE, ASTRID VALENTINA                        2273.620
+     66    60457799     HANCO DAVILA, AÁRON VLADIMIR                            2273.004
+     67    60732603     HANCCO JAVIER, KAREN LAYDA                              2269.156
+     68    75405310     PINTO COILLO, GLORIA                                    2257.850
+     69    77691102     HUAMAN QUISPE, JUAN CARLOS                              2256.530
+     70    74255640     ARPI PACCO, ROCÍO ANGIE                                 2255.278
+     71    75999030     ALVAREZ PARICANAZA, PATRICIA                            2253.210
+     72    73319640     VALERIANO VALENCIA, YASMIN                              2251.632
+     73    61063378     JALLO DEL PINO, LINDSEY TATIANA                         2246.660
+     74    60850647     HUAYTA CUENTAS, DEYANIRA ONAYRA                         2246.610
+     75    60837293     HILASACA APAZA, LUCIANA CINTYA                          2244.470
+     76    77215631     COYLA PARI, DANIELA GABY                                2242.920
+     77    75950300     MAMANI MAMANI, ELMER WILDER                             2242.000
+     78    60837131     GAMARRA MURILLO, YENY GLADIS                            2239.650
+     79    60850732     CORREA CASTRO, KENIN HAROL                              2238.160
+     80    71765382     FLORES CONDORI, ARIANA VALERIA                          2232.228
+     81    60490344     MOROCCO MAMANI, MILUZKA MILAGROS                        2229.810
+ ========================================================================================
+ 2024/08/03 03:35:33 PM
+
+
+
+
+                    UNIVERSIDAD NACIONAL DEL ALTIPLANO DE PUNO
+                        DIRECCIÓN DE ADMISIÓN
+                   EXAMEN DE ADMISION CEPREUNA 2024-II
+ ========================================================================================
+
+               CLASIFICADOS PARA EL EXAMEN DEL DOMINGO 4 AGOSTO DEL 2024
+
+ [ 17 ]   EDUCACIÓN INICIAL
+
+ 
+   PUESTO   DNI            APELLIDOS Y NOMBRES                         PUNTAJE
+ ========================================================================================
+     1     75094495     LAQUI MAQUERA, ROSA VERONICA                            2481.720
+     2     76186197     MAYTA CONDORI, DANIA JASMIN                             2469.000
+     3     73819110     CUNO RAMOS, TRECY ANAHY                                 2298.320
+     4     73770770     ROQUE RAMOS, NELSI                                      2249.352
+     5     71621821     CAZASOLA MOYA, ALISON GUIOMARA                          2237.660
+     6     71653956     CATARI CCUNO, YUDY                                      2206.420
+     7     78720817     ILLACUTIPA MAMANI, ANA MARIBEL                          2176.620
+     8     60837644     MAMANI SUCARI, YULIANA MILAGROS                         2172.620
+     9     60273418     YEPEZ HUAQUISTO, CODY NABI ANAHI                        2159.360
+     10    60243054     CALLIRI CAHUACHIA, MARGOT JACKELYN                      2121.020
+     11    74427487     QUILLI MARCA, LIZ VERONICA                              2096.670
+     12    60793993     PACCOSONCCO CCARITA, NAYELI SORAYDA                     2092.170
+     13    60437575     QUISPE RAMOS, NADINE BRIGGITTE                          2076.560
+     14    76033280     MAMANI GUTIERREZ, YUREMA LIZET                          2074.010
+     15    70335401     YUCRA YUCRA, YANET JULIA                                2063.480
+     16    60175901     VALERIANO LORENZO, LEA SUSAN                            2052.290
+     17    60758898     GONZALES MONROY, ESTEFANY                               2043.460
+     18    60068954     RUIZ ACERO, ANA RAQUEL                                  2031.360
+     19    60067430     PARILLO QUISPE, MABEL ANDREA                            2027.170
+     20    73638515     CALSINA CHAMBI, YAQUELIN ROCIO                          2018.516
+     21    71851462     CHICMAPOCCO MOROCCO, LUZ DELIA                          1990.780
+     22    75981520     BAZAN CHAMBILLA, LIZBELLA JOANA                         1985.220
+     23    71309441     TAPIA CONDORI, EVELIN ROSARIO                           1982.620
+     24    73430337     VEGA GARCIA, NELIDA                                     1959.128
+     25    63174688     PARI PAUCAR, EMELY YANET                                1952.090
+     26    75402041     CONDORI AQUINO, LILIBETH                                1949.190
+     27    75814215     GONZALO YABAR, MILAGROS                                 1939.044
+     28    60850486     RAMIREZ ALIAGA, KAREN TATIANA                           1936.780
+     29    74887700     MAMANI GUTIERREZ, ELIZABETH MARINA                      1929.380
+     30    71505642     QUISPE PARISACA, LIZ NAYELY                             1911.240
+     31    73905219     PILLCO QUISPE, GRISELA MILAGROS                         1904.960
+     32    60759079     AGUILAR GUERRA, MARIA JIMENA                            1901.860
+     33    72697546     RAMOS CCAPA, MADELEYNE LUCERO                           1895.290
+     34    60983054     ACHATA CHIPANA, GLADILUZ JHASMIN                        1891.240
+     35    75681093     QUISPE CAHUANA, YUDITH SUSANA                           1882.490
+     36    60442950     ARAGON CONDORI, MIRIAN YANIRA                           1871.660
+     37    77129836     MAMANI LEONARDO, MARIBEL MARLENY                        1867.328
+     38    73700026     QUISPE QUISPE, NAYHELY MILAGROS                         1864.800
+     39    60181213     MOYA CAHUIÑA, LISBET DANIA                              1843.064
+     40    75314291     APAZA LLANOS, YOSELIN                                   1840.010
+     41    75901686     MAMANI CCAJJIA, RUBI ESTEFANY                           1830.240
+     42    73252440     CONTRERAS HUARACALLO, ANAI GUADALUPE                    1826.600
+     43    60909407     SALLUCA MOLLEAPAZA, PILAR NOHEMI                        1826.530
+     44    74702588     CHUQUILUQUE HANCCO, NILMA MARIZOL                       1818.910
+     45    74057368     MAMANI QUISPE, YESSICA                                  1816.000
+     46    60069201     QUIÑONEZ QUEA, MILA STEFANY                             1815.670
+     47    72195055     GUTIERREZ PACORI, YANIRA SHARMELY                       1812.500
+     48    75396866     PILCO CHOQUE, ZENAIDA                                   1810.370
+     49    60759242     HUANCA CATARI, ANA ZARAI                                1806.150
+ ========================================================================================
+ 2024/08/03 03:35:33 PM
+
+
+
+
+                    UNIVERSIDAD NACIONAL DEL ALTIPLANO DE PUNO
+                        DIRECCIÓN DE ADMISIÓN
+                   EXAMEN DE ADMISION CEPREUNA 2024-II
+ ========================================================================================
+
+               CLASIFICADOS PARA EL EXAMEN DEL DOMINGO 4 AGOSTO DEL 2024
+
+ [ 23 ]   ENFERMERÍA
+
+ 
+   PUESTO   DNI            APELLIDOS Y NOMBRES                         PUNTAJE
+ ========================================================================================
+     1     73379983     SOSA VELASQUEZ, BERTHA                                  2801.688
+     2     60909096     CUSI APAZA, FLOR EVELIN                                 2691.010
+     3     60213458     PUMA APAZA, KATHERIN YHARITZA                           2466.920
+     4     60467539     YUJRA APAZA, BRAYAN CARLOS                              2291.930
+     5     73382395     FLORES MAMANI, KELLY YORELIA                            2263.510
+     6     73963159     CHOQUE CHURACAPIA, YULI YULIANA                         2191.920
+     7     60222887     QUISPE ALAVE, VIRGINIA CLARA                            2178.436
+     8     60764846     CERPA TACORA, DANTE VIDAL                               2146.460
+     9     77533461     GUEVARA MAMANI, KATIA                                   2141.830
+     10    73254637     SUPO HUARICALLO, DAYANA EVELIN                          2141.670
+     11    73991375     YSCARRA HUAYCANI, KRELMIN OLLANTA                       2131.860
+     12    73771564     PACHECO CHOQUEHUANCA, MITWAR OWER                       2108.506
+     13    60561683     TORRES APAZA, GLORIA CORAIMA                            2103.068
+     14    75046580     AYAMAMANI DIAZ, WINY MAYTE                              2078.350
+     15    60442985     VILCA INOFUENTE, KATY GABRIELA                          2064.930
+     16    73744892     MAMANI CAHUANA, ANALY                                   2062.830
+     17    60837405     COILA MAMANI, YUNMY MILAGROS                            2053.620
+     18    73257051     LAURA FUENTES, LEIDY MARYORI                            2043.680
+     19    74497622     ESQUIROS TOLEDO, MAYRSON                                2033.880
+     20    76921942     MIRANDA SACACA, YULITZA GLENY                           2024.260
+     21    76266174     CONDORI CHAMBI, EVA ANYELI                              2007.050
+     22    77077900     MAMANI GUTIERREZ, ANGIE MISSIHEL                        2006.980
+     23    60417334     BUTRON BENITO, NOHEMY NAYELY                            1971.576
+     24    74059579     JOVE COLQUEHUANCA, LUZ JIMENA                           1965.570
+     25    60983501     CHAMBILLA JIMENEZ, ISLENE CRISTINA                      1964.210
+     26    70894045     MAMANI MAMANI, DINA LUCILA                              1953.694
+     27    74802477     CUSACANI MAMANI, ESMERALDA                              1951.600
+     28    75262829     PEREZ ASTULLE, JOHANN MIGUEL                            1933.660
+     29    60069371     AGUIRRE AGUILAR, NADYN BETHSY                           1933.598
+     30    60256162     QUISPE PAREDES, SAIDA NAYELY                            1930.814
+     31    60437552     CALLOMAMANI WASHUALDO, AYLIN EDELIA                     1907.860
+     32    60765210     CHIPANA HUANCA, HAROL NILTHON                           1898.314
+     33    60065871     ZAMATA CHAMBI, BERLI DUNIA                              1887.894
+     34    61000425     CHURA HUALLA, GABRIELA QORIANKA                         1886.800
+     35    60860279     HUAMANI ACHULLI, SHARMELY                               1884.352
+     36    75266100     QUISPE ENDARA, HEELEN MELIZA                            1881.132
+     37    74540856     CHOQUECALLATA MACHACA, MERY YULESSA                     1856.950
+     38    74374309     ESCOBAR LOPE, EVELYN                                    1855.530
+     39    77216797     PERCA ZAPANA, DEYSI                                     1845.626
+     40    60850770     CHAGUA VIDANGOS, RUTH IROSONIA                          1845.620
+     41    60758677     TITO ANCCASI, MELISSA                                   1844.670
+     42    76952581     CONTRERAS QUISPE, CAREN PRISILA                         1843.792
+     43    74244447     COAQUIRA MAQUERA, LUZ MARINA                            1843.720
+     44    72107809     CHIPANA NAVARRO, NICOLE JENNIFER                        1841.600
+     45    75894214     JOVE MAMANI, NICHOL MIRIAN                              1840.200
+     46    60180472     VILCAPAZA ALVAREZ, GLENY KAREN                          1838.824
+     47    75831984     ACERO ACERO, YANETH FLORA                               1838.210
+     48    60850592     VARGAS AVILES, GABRIELA FERNANDA                        1834.110
+     49    60758813     VILCA MAMANI, LUIS ENRIQUE                              1832.180
+     50    60501217     LIPA ARESTEGUI, KAREN                                   1828.370
+     51    60850101     FLORES HERRERA, SOFIA ALEJANDRA                         1823.752
+     52    74701041     CASTRO MAMANI, ESMERALDA                                1823.708
+     53    60443070     CONDORI BANEGAS, MAILY ZUNILDA                          1816.960
+     54    60472310     LEON CANAZA, YULIANA GRIMELDA                           1815.692
+     55    75565032     JOVE CHOQUE, BRIGIDA                                    1812.752
+     56    76693381     RAMOS FLORES, ADRIANA ZIANETH                           1811.580
+     57    74163582     LUNA PAREDES, KARLETH SOFIA                             1810.500
+     58    60850228     GALLEGOS FLORES, ISABEL ESTEFANY                        1789.840
+     59    75402308     IQUISE VARGAS, RUTH RAQUEL                              1787.960
+     60    60068684     MAMANI BELIZARIO, YESSICA CLARET                        1787.494
+     61    60850794     RAMOS RODRIGUEZ, FLOR DE MARIA PATRICE                  1785.160
+     62    75454376     PACOMPIA CAPACOILA, KATIA ERICA                         1785.030
+     63    60850289     ASTETE RAMOS, ARACELI BIANCA                            1782.270
+     64    63485954     LOZANO CHOQUE, BRIYIT FABIOLA                           1781.220
+     65    70452992     RUELAS ORTEGA, LUZMARLA NAOMI                           1780.078
+     66    60220555     CCALLO PACHA, JASMIN YAMILETH                           1777.740
+     67    71525305     COILA AVILA, LUZ CLARITA                                1776.410
+     68    60983160     GALLEGOS ROQUE, YEBELYN YAMIRA                          1768.140
+     69    60536198     CONDORI MAMANI, HEVELYN SHARUCK                         1763.550
+     70    76130366     SANCA SILLO, FRANK WILLY                                1763.080
+     71    72493004     PACORI APAZA, LIZBETH LILIAN                            1753.140
+     72    77047870     CCALLOHUANCA QUELCA, VAN HUBERT                         1748.160
+     73    77475737     BRAVO QUISPE, CYNTHIA YANETH                            1744.634
+     74    74694824     ROJAS TURPO, ANA LUZ                                    1742.876
+     75    76647600     BUSTINCIO BELISARIO, YENY PILAR                         1738.008
+     76    76776650     ESCOBAR GARAVITO, JOSE ANTONIO                          1725.130
+     77    60068621     CHANINI ASQUI, FRIDA GRICELDA                           1723.082
+     78    60208363     MAMANI NAVARRO, LIZBETH ERIKA                           1713.620
+     79    60175405     CRUZ AQUINO, CAROLINA NARDY                             1713.450
+     80    63733711     REYES BERRIOS, NOEMI                                    1706.720
+     81    71525427     VILCA NUÑEZ, MARITZA                                    1703.660
+     82    73250891     YLASACA CAHUI, PAMELA YOSELIN                           1702.390
+     83    60857488     HUALLPA NUÑEZ, MIRIAM YOVANA                            1701.480
+     84    60908559     MAMANI VALERIANO, DINA FIORELA                          1697.580
+     85    73773466     MAQUERA APAZA, CRISTHIAN RODRIGO                        1694.030
+     86    71524215     CALCINA CALCINA, LUZ ROSMERY                            1680.740
+     87    60836576     PAREDES PHOCCOHUANCA, RAQUEL MILAGRITOS                 1678.840
+     88    60837456     CALLASACA TACAR, RUTH YADIRA                            1676.530
+     89    60850070     PARISUAÑA MAMANI, LIZETH IVON                           1674.710
+     90    60066293     CHIPANA CONDORI, TREYSI ANAIS                           1673.840
+     91    60765232     SONCCO APAZA, BRIYITH SHARMELH                          1673.650
+     92    60850564     CONDORI QUILCA, DAYANA SADITH                           1670.628
+     93    75402649     LUQUE MAMANI, MONICA LUZ DELIA                          1669.448
+     94    71945114     CHAMBI ZEA, KARIN FABIOLA                               1668.618
+     95    72795593     GODIEL BELLIDO, YUMI KARLA                              1664.120
+     96    60983163     PACHO FLORES, LEYDY NAYELY                              1659.006
+     97    60765159     YAPU YAPU, LILIAN MARILU                                1652.454
+     98    60759140     ACERO HUANCOLLO, SATOMI                                 1651.516
+     99    60272019     BUSTINZA CHOQUEHUANCA, DORIS LIZET                      1628.590
+     100   73382414     CHOQUENEIRA LIMA, ANAHIT XIOMARA ZHURLY                 1628.270
+ ========================================================================================
+ 2024/08/03 03:35:33 PM
+
+
+
+
+                    UNIVERSIDAD NACIONAL DEL ALTIPLANO DE PUNO
+                        DIRECCIÓN DE ADMISIÓN
+                   EXAMEN DE ADMISION CEPREUNA 2024-II
+ ========================================================================================
+
+               CLASIFICADOS PARA EL EXAMEN DEL DOMINGO 4 AGOSTO DEL 2024
+
+ [ 27 ]   INGENIERÍA CIVIL
+
+ 
+   PUESTO   DNI            APELLIDOS Y NOMBRES                         PUNTAJE
+ ========================================================================================
+     1     71870734     RAMOS TURPO, MARCO ARMANDO                              2980.280
+     2     74930176     MAYE ATENCIO, WILLIAM CESAR                             2948.770
+     3     75227586     ARNAO COLQUE, VLADIMIR PAUL                             2927.170
+     4     60758920     CHAMBILLA PARI, FARID                                   2908.490
+     5     73494943     CHAMBI COPAJA, DANY NILVER                              2903.090
+     6     60850458     CALLO APAZA, ADRIANA CAMILA                             2887.100
+     7     73853746     HUARCAYA HUANCCO, JHON ELVIS                            2838.240
+     8     61001399     VASQUEZ ADCO, GUSTAVO MARK ALEXANDER                    2819.820
+     9     73820994     CCUNO LIVISI, ROBILSON JOLIBERT                         2808.790
+     10    75672409     MACHACA YANQUI, FRANK LEONCIO                           2795.824
+     11    61000372     CHURA MENDOZA, MAXIMO GERARDO                           2791.310
+     12    73747801     CUTIPA MAMANI, FRANDUX JACK                             2739.460
+     13    71721177     MAMANI JOVE, EDWIN EVER                                 2733.760
+     14    74984066     DEZA HUAYTA, ROOSVELT JOSUE                             2730.590
+     15    77692284     CHAMBILLA MAMANI, JUAN DE DIOS                          2715.390
+     16    75518577     GONZALO QUISPE, ALEXANDER ROY                           2711.670
+     17    60177603     VILCA CHOQUEHUANCA, KENDY RUBIÑO                        2707.690
+     18    60908628     COLQUEHUANCA COLQUEHUANCA, ERIK MANUEL                  2672.290
+     19    73486217     CUTIPA RIVERA, GUILLER LUIS                             2648.600
+     20    74151869     SANCHEZ APAZA, JACK MOUGLI                              2647.046
+     21    60490384     CONDO MAMANI, PIERO FELIPE                              2639.196
+     22    70830355     PEREZ CHOQUE, PATRICK ANDERSSON                         2621.400
+     23    75937169     RAFAEL CCOLLA, MAYCOL YORDAN                            2618.470
+     24    71946441     MAMANI CONDORI, ANGEL DAVID                             2617.350
+     25    60609857     MAMANI QUISPE, ROY KEVIN                                2616.130
+     26    75342429     PANCCA CAHUI, WILLIAM FERNANDO                          2615.456
+     27    60983156     FUENTES LOPEZ, GIANCARLO HECTOR                         2608.260
+     28    73636223     YANAPA LAYME, CAMILA SANDRA                             2587.210
+     29    72492613     CUENTAS CAHUANA, DENILSON YUNIOR                        2581.410
+     30    71348895     GUTIERREZ RAMOS, FIORBELA                               2578.362
+     31    71293695     GUTIERREZ CONDORI, LISBET MARGOT                        2567.730
+     32    73588351     AGUILAR TUPA, PERCY WILLY                               2557.080
+     33    75708382     HANCCO DAVILA, MABERICK EDAM                            2545.710
+     34    74878729     MAMANI LUQUE, YHONNY AMILKAR                            2532.220
+     35    62627913     TORRES BENAVIDES, CARLOS MAURICIO                       2530.876
+     36    73822221     RAMOS LIMA, JHONY MICHAEL                               2524.490
+     37    60443021     JIMENEZ LUQUE, RENSO BRANDON                            2522.070
+     38    76157392     LUPACA APAZA, JAVIER FERNANDEZ                          2521.890
+     39    60850143     PIMENTEL APAZA, REGINA CAROLINA                         2519.840
+     40    70900016     MENDOZA CANTUTA, ALVARO BLASS                           2505.602
+     41    74626104     MAQQUE SALCEDO, CARMEN ROSA                             2477.880
+     42    70913214     DAVILA VALENZUELA, ALFREDO ANGEL                        2464.672
+     43    73810934     ARAGON CONDORI, CRISTHIAN WALDIR                        2462.040
+     44    60180337     RAMOS GOMEZ, CARLOS TOBIAS                              2461.706
+     45    75383787     QUISPE CHINO, YEFERSON SAUL                             2455.340
+     46    75864307     TURPO APAZA, YHIMI ROMARIO                              2452.170
+     47    61063599     VARGAS LAURA, CARLOS SMITH                              2431.390
+     48    60908452     ROJAS CHARCA, ADAMS ANTHONY                             2427.400
+     49    73299023     CONDORI CONDORI, JHUNEOR FRANKLIN                       2422.406
+     50    60759233     SANTANDER MUÑUICO, CHRISTOPHER STEVENS                  2418.730
+     51    74285832     VILCA CHAÑI, OLY AYMAR                                  2408.710
+     52    77486968     TICONA QUEA, AYRTON JAIRZINHO                           2400.398
+     53    70757743     CONDORI CAHUANA, UBALDO HERMOGENES                      2392.630
+     54    75630243     CCALLA MAMANI, EFRAIN EUDOMAR                           2385.194
+     55    72396757     QUISPE ROJAS, NELIDA YOVANNA                            2370.500
+     56    73141482     HUANCA APAZA, ABEL ABDON                                2364.110
+     57    73300788     MAMANI CALDERON, YERALD ANDRE                           2355.730
+     58    71461951     QUISPE VILCA, JOHANN EYNER                              2353.510
+     59    60244466     CUTIPA CONDORI, ANDREE SALVADOR                         2335.300
+     60    60983147     PANTI MERCADO, MICHEL ALEXANDER                         2330.206
+     61    61063224     COLOMA SARZOZO, JHAMIL ALDAIR                           2326.490
+     62    60066626     GUTIERREZ PEREYRA, JHONN EDWARD                         2325.390
+     63    60068176     CORIMANYA QUISPE, KLIVER DANMER                         2325.150
+     64    60764763     QUISPE PARILLO, GUSTAVO ADEMIR                          2324.966
+     65    60422559     VELARDE CHOQUEHUANCA, LUIS ANTONIO                      2316.520
+     66    71857224     QUISPE CCUNO, GILMER JHOAN                              2314.980
+     67    75402764     SUCAPUCA CONDORI, FRANZ JHOSEPH                         2314.560
+     68    60444234     QUISPE MAMANI, JOEL EDWIN RODRIGO                       2311.348
+     69    73582166     VILCA BARRA, CHARLY PRIME                               2307.690
+     70    78104282     NINAJA GOMEZ, WILLIAM                                   2281.350
+     71    75694583     APAZA CONDORI, AIRTHON NELSON                           2272.660
+     72    60442991     CHOQUEHUANCA ROMAN, MARLON YANMIER                      2268.480
+     73    77049571     COPA MAMANI, JHOJAN ANTONY                              2263.832
+     74    60908589     QUISPE UMIÑA, PITER JACK                                2263.480
+     75    74234554     CALLATA HALLASI, GIAN MARCO                             2262.708
+     76    73963910     CHOQUE QUISPE, LYONEL JORGE                             2262.596
+     77    60908402     QUINTO BALLADARES, JOHN ELIER                           2245.760
+     78    76940062     APAZA MAMANI, JHON MICHAEL                              2240.430
+     79    73011793     VARGAS PUMA, FRANSH UBER                                2237.600
+     80    71731495     CHEVARRIA COLQUEHUANCA, HUGO FABIAN                     2219.430
+     81    74589280     VARGAS JAÑO, FERNANDO                                   2218.510
+     82    73581122     MAMANI OCHOCHOQUE, UBER                                 2218.170
+ ========================================================================================
+ 2024/08/03 03:35:33 PM
+
+
+
+
+                    UNIVERSIDAD NACIONAL DEL ALTIPLANO DE PUNO
+                        DIRECCIÓN DE ADMISIÓN
+                   EXAMEN DE ADMISION CEPREUNA 2024-II
+ ========================================================================================
+
+               CLASIFICADOS PARA EL EXAMEN DEL DOMINGO 4 AGOSTO DEL 2024
+
+ [ 30 ]   INGENIERÍA ECONÓMICA
+
+ 
+   PUESTO   DNI            APELLIDOS Y NOMBRES                         PUNTAJE
+ ========================================================================================
+     1     71522179     YANQUI MAMANI, PAUL RONALDO                             2642.690
+     2     61091879     COILA TORRES, JUAN CARLOS                               2636.020
+     3     60179664     PAUCAR VILCA, ELIAN TRINIDAD                            2588.820
+     4     60458289     GALINDO PASTOR, CARLOS DANIEL                           2388.590
+     5     76989613     HOLGADO PAYE, FERNANDO JOSE                             2366.770
+     6     60983251     JUAREZ HANCCO, YADARI ARIANA                            2334.450
+     7     61000582     MORALES RAVELO, VALERIA BELEN                           2214.802
+     8     75850001     CCAPA QUISPE, JENNIFER ARACELY                          2202.526
+     9     60243892     SUCARI SUCARI, HILVER FRAN                              2197.910
+     10    73528251     CHUMBILLA CHAMBI, FRAY ERICK                            2167.880
+     11    75257190     JUAREZ HUALLPA, JOSE MARINO PAUL                        2138.750
+     12    74961415     UMPIRI POMARI, LUIS ALEXANDER                           2113.690
+     13    60758749     ZAPANA COILA, FABRICIO JORGE                            2109.770
+     14    76338626     MELO PINEDA, HANDELT ARMANDO                            2108.320
+     15    78804173     NINA MAMANI, YHOSELYN MAGALY                            2103.560
+     16    74378297     LEONARDO HIRPANOCCA, INES YULI                          2090.270
+     17    60460299     TICONA MAMANI, AMERLY NILDO                             2087.690
+     18    75867756     MAMANI ARIZAPANA, JOSSOUE DE CUBA                       2085.150
+     19    60758748     PARIAPAZA CHOQUE, PERCY MIJAIL                          2081.440
+     20    60467520     CONDORI LUPACA, YENNERY SAMIRA                          2080.456
+     21    60908921     HUANCA SILLO, ALEX JOSUE                                2079.980
+     22    74355206     QUISPE CHUMBILLA, ROYER SOLMER                          2072.066
+     23    72460957     FLORES BELLIDO, JUAN DANIEL ROBERTO                     2066.240
+     24    74242006     ALARCON AYAMAMANI, WILLIAM CESAR                        2055.290
+     25    60837646     MAYTA LAMPA, GINA MIRELLA                               2044.690
+     26    60460311     LUNA QUISPE, EDWIN ANIVAL                               2043.176
+     27    60982803     BARRIALES PARILLO, MIGUEL                               2042.060
+     28    60982905     SUAÑA QUISPE, PAOLA ARACELY                             2041.760
+     29    72436215     MEDINA CCAMA, GIAN FRANCO                               2040.380
+     30    73526641     QUISPE CARREON, BRIAN SAMIR                             2038.070
+     31    73361399     CALSINA APAZA, CRISTIAN JAVIER                          2023.644
+     32    61063926     CALLA PILCO, ANIBAL PAUL                                2009.564
+     33    75571188     CCORI QUISPE, CRISTHIAN EDUARDO                         1996.770
+     34    76282513     QUISPE JARRA, ABDIEL JAIR                               1993.890
+     35    75471068     CCARI LAURA, BRAYAN JESUS                               1993.410
+     36    73367568     GUTIERREZ QUISPE, DARIELA MAVILA                        1988.790
+     37    70518993     CCOPA REQUENA, ARNOL ERNESTO                            1986.020
+     38    74614640     SILLO CHAHUARA, JHEMMY                                  1976.724
+     39    60837188     MOROCCO QUISPE, PAMELA ANGELES                          1974.230
+     40    73958239     ORDOÑEZ CASTRO, LIZBETH                                 1973.036
+     41    74960024     ARAPA SALAS, ROCIO KARELY                               1971.584
+     42    71856681     CHAMBI CHURA, EVELYN NAILY                              1961.160
+     43    73523611     BARRAGAN CHOQUEPATA, TIFANY                             1956.430
+     44    60179757     ACARAPI HUMPIRI, MELANIE LIZBETH                        1953.420
+     45    74633364     MACHACA PACOMPIA, ELOY DENIS                            1946.040
+     46    73636332     CUSACANI ESCOBAR, SHAKIRA MARGETH                       1944.020
+     47    71500977     APAZA APARICIO, JAIR ALEXIS                             1936.644
+     48    60068968     ARIAS QUISPE, ROSIBEL SUSANA                            1935.990
+     49    75869104     LIMA CONDORI, EDITH EDELMIRA                            1925.482
+     50    73648686     QUENTA CONDORI, ELVIS ANTONI                            1924.420
+     51    60758682     QUISPE VILCA, BRANDON FRANCO                            1920.060
+     52    60983068     CALAPUJA QUISPE, ADRIANA GHISLAINE                      1918.262
+     53    73945463     COAQUIRA YUCRA, BRITNEY NOHELIA                         1916.450
+ ========================================================================================
+ 2024/08/03 03:35:33 PM
+
+
+
+
+                    UNIVERSIDAD NACIONAL DEL ALTIPLANO DE PUNO
+                        DIRECCIÓN DE ADMISIÓN
+                   EXAMEN DE ADMISION CEPREUNA 2024-II
+ ========================================================================================
+
+               CLASIFICADOS PARA EL EXAMEN DEL DOMINGO 4 AGOSTO DEL 2024
+
+ [ 38 ]   MEDICINA HUMANA
+
+ 
+   PUESTO   DNI            APELLIDOS Y NOMBRES                         PUNTAJE
+ ========================================================================================
+     1     61158510     ZEA HUAHUAMULLO, NELSON FABRICIO                        3314.664
+     2     71312221     QUISPE PUMA, ANGELES BRENDA                             3252.080
+     3     75503021     MALDONADO QUISPE, DIEGO FABRIZZIO                       3131.540
+     4     75515992     QUISPE PACORI, LEONEL                                   3118.980
+     5     60850575     BAILON MENDOZA, GABRIEL ARTURO                          3015.190
+     6     71427108     BALBOA MACHACA, ALBERT YAMIL                            2980.662
+     7     60177350     LLAVILLA CHAÑI, VICTOR ALEXANDER                        2963.030
+     8     74201061     RODRIGUEZ PILCO, ERICK BRAYAN                           2955.860
+     9     76810294     MAMANI CAIRA, MILENE ROCIO                              2943.450
+     10    76949492     MAMANI SUERO, YENY MILAGROS                             2917.672
+     11    60254152     JOVE VILCA, ANDRES ABEL                                 2907.890
+     12    73375400     AQUINO MENDOZA, RUTH NOEMI                              2906.848
+     13    75193245     YANCACHAJLLA JUSTO, MIRIAM SARA                         2896.800
+     14    60850059     LOPE TICONA, GERARDO RAFAEL                             2886.460
+     15    73759126     IQUISE SALCEDO, DEYVI JHOSEP                            2870.340
+     16    60837617     QUISPE QUISPE, AZUBELLY EMPERATRIZ                      2868.440
+     17    76411787     CUTIPA CHANA, EVELING PATRICIA                          2867.160
+     18    75342718     BELTRAN BELTRAN, PAOLO FERNANDO                         2865.540
+     19    72327851     MAMANI CHUQUIJA, VICTOR GILMAR                          2809.060
+     20    75437647     MAMANI CORI, MAYTE ROMINA                               2790.020
+     21    73130897     BARRAZA JAHUIRA, BETSY PAMELA                           2780.540
+     22    76419083     CHAMBILLA BARRETO, CRISTIAN AMERICO                     2759.730
+     23    61063394     AROCUTIPA YNCAHUANACO, FAVIO DIOGO                      2744.950
+     24    75140365     ALATA PACO, DAVID WILSON                                2742.890
+     25    76395684     VELIZ CALSIN, LESLEY SUSEL                              2736.550
+     26    60982995     IDME ASCENCIO, AMIRA NAYELI                             2687.560
+     27    75193246     YANCACHAJLLA JUSTO, AYELEN SARA                         2669.640
+     28    77047557     MONTERO PONCE, ALESSANDRO ANDREYEVICH                   2665.850
+     29    72853363     TINTAYA RAMOS, MARIA FERNANDA                           2657.500
+     30    72228945     COARITE HUAMAN, YEFERSON HUMBERTO                       2646.160
+     31    73701096     LOPEZ BETANCUR, ROY MILLER                              2644.600
+     32    73880039     CALCINA QUISPE, JUAN ABEL                               2643.990
+     33    72283081     SULLCA PARRA, ALEXANDER GUSTAVO                         2642.650
+     34    72950415     MAMANI CCAMA, CRISTHIAN GABRIEL                         2627.140
+     35    73865098     HUAQUIPACO PASTOR, JAMES ADLER                          2624.190
+     36    74404219     CHURATA SUAÑA, ERIK JHAN MARCO                          2623.170
+     37    77683019     MEDINA SUYO, DEYSI SUMNI                                2605.460
+     38    75759142     ARPASI IQUIAPAZA, JACK BRYAN                            2594.570
+     39    74766250     TARQUI MANUELO, EDY DARIO                               2584.120
+     40    76040084     MAMANI QUISPE, CRISTIAN JESUS                           2567.850
+     41    71804198     CHURA TUNI, LAURA VALERIA                               2560.270
+     42    60850227     MAMANI MAMANCHURA, LIZBETH ROCIO                        2557.250
+     43    76969621     TICONA CHOQUE, BRAYAM JAVIER                            2555.740
+     44    74802348     HUANACUNI CCALLO, WILLIAMS VALAZ                        2540.944
+     45    72213129     OLARTE LAURA, RUSSBEL EDY                               2539.970
+     46    61205210     PANTOJA CRUZ, LUIS GABRIEL                              2525.472
+     47    73474633     ARACA CONDORI, LEIDY MILAGROS                           2495.174
+     48    72011705     RIQUELME PACHA, RUBEN NOE                               2484.604
+     49    61001440     HUANCA RAMOS, DAYRON RAUL MAYER                         2462.930
+     50    60908407     CHIPANA FLORES, YASMIN YESHLE                           2460.100
+     51    71790657     CACHICATARI COAQUIRA, PAMELA                            2460.044
+     52    70312871     SILVA VILLAHERMOSA, JOELIN ALEXANDRA                    2459.830
+     53    72950379     VALENCIA PARI, GIULIANNA AMERICA                        2453.180
+     54    60850321     MAQUERA ROQUE, JUAN CARLOS                              2443.080
+     55    71503791     PACHARI ORTIZ, CLINTON RAUL                             2426.380
+     56    75381654     TICAHUANCA INCAQUISPE, JHON DANTE                       2413.860
+     57    60909091     VILCA TISNADO, ANTHONY DANIEL                           2409.600
+     58    72083861     MAMANI QUISPE, RUDY MIDWARD                             2403.510
+     59    76256746     CHAMA MAMANI, VANEZA                                    2394.106
+     60    71593538     ALVAREZ PEREIRA, ALEJANDRA ASTRID                       2391.030
+     61    60595281     CHARALLA CHOQUE, JETLY  BARTOK                          2390.610
+     62    70518875     PARICAHUA MAMANI, ALCIDES                               2389.120
+     63    60417619     ROSSEL CESPEDES, GLEYDI LUZ                             2383.800
+     64    74178713     NOA PARICAHUA, JHON MAYCOL                              2381.080
+     65    60836916     MAMANI CONDORI, MAX MEISON                              2376.960
+     66    75269252     VALENCIA PAUCAR, YOSELYN ROUS                           2371.750
+     67    60175412     PILCO LUQUE, OSCAR DUVAN                                2370.770
+     68    61063736     PAREDES APAZA, LUCERO ALEXANDRA                         2363.400
+     69    60982885     MENDOZA JULI, AYLIN GIULIANA                            2360.820
+     70    72546717     OCHOA MULLISACA, EIDA BERLYNE                           2353.956
+     71    60837701     BELIZARIO PONCE, JOSE MANUEL                            2350.220
+     72    74774004     CAYRO VILCA, RITA KARINA                                2335.130
+     73    73511337     MAMANI COILA, ANGEL                                     2334.738
+     74    74161418     MAMANI CARCAUSTO, LIDUBINA DEYNA                        2327.280
+     75    75783675     PAREDES SERPA, NADINE ROSIBEL                           2325.590
+     76    71197611     MAMANI KILLI, FIDEL RODOLFO                             2322.760
+     77    60457763     PARISUAÑA HUAYNACHO, ALDAIR JEFFERSON                   2310.160
+     78    60982857     CHIPANA TARQUI, RENE AXCEL                              2304.440
+     79    60837424     CHÁVEZ QUISPE, SHEYLA ANALI                             2295.620
+     80    45474730     PAXI GARNICA, ZENON ROMMEL                              2287.940
+     81    60983323     QUISPE APARICIO, DYLAN VALENTINO                        2287.230
+     82    70254555     FLORES HUANCA, JORGE EDUARDO DEL FRANCO                 2283.544
+     83    73059566     RAMOS MAMANI, PEDRO DANIEL JOAQUIN                      2272.084
+     84    61204919     YUCRA RAMOS, ANABEL YASMIN                              2271.710
+     85    76415945     CUTIPA CHANA, LILIAN MILAGROS                           2270.802
+     86    47479770     ARELA HANCCO, DAVID JOEL                                2266.650
+     87    70207104     ORTEGA NINA, CRISTIAN JHON                              2261.300
+     88    60983254     ACHATA NINA, NATSUMI MARYORI                            2254.814
+     89    60173310     ACHATA MAMANI, YHON ALEX                                2250.580
+     90    73893121     LLANO VILCA, JOSE CARLOS                                2249.630
+     91    75998718     MAMANI ATAMARI, ROCIO BELINDA                           2248.652
+     92    61000593     SULLCA ROSELLO, JOHN EDWAR                              2236.842
+     93    75998698     SUCTO MAMANI, LIDU ANTONELLA                            2220.586
+     94    60857532     GUTIERREZ LUPACA, FRANK ORLANDO                         2219.180
+     95    75696483     CUTIPA MAMANI, WENDY JHADIRA                            2216.950
+     96    60850251     HUACOTO PALOMINO, DANIEL YAMIR                          2211.452
+     97    76314661     CALLE ORMACHEA, ROMMINA ANDROMEDA                       2208.062
+     98    70902180     YANAPA RAMOS, MICHELLE LUZMILA                          2206.920
+ ========================================================================================
+ 2024/08/03 03:35:33 PM
+
+
+
+
+                    UNIVERSIDAD NACIONAL DEL ALTIPLANO DE PUNO
+                        DIRECCIÓN DE ADMISIÓN
+                   EXAMEN DE ADMISION CEPREUNA 2024-II
+ ========================================================================================
+
+               CLASIFICADOS PARA EL EXAMEN DEL DOMINGO 4 AGOSTO DEL 2024
+
+ [ 45 ]   PSICOLOGÍA
+
+ 
+   PUESTO   DNI            APELLIDOS Y NOMBRES                         PUNTAJE
+ ========================================================================================
+     1     74720002     PANCCA TURPO, MARGOT ROCIO                              2883.230
+     2     73773868     MAMANI GALINDO, CINTHIA CORAL                           2847.540
+     3     60759084     HIDALGO RODRIGUEZ, MARIA ANGELICA                       2729.512
+     4     71060222     YTO VILCA, ABEL FERNANDO                                2696.950
+     5     74574544     CAUNA RAMOS, LISBETH DANIA                              2623.520
+     6     72144871     CONDORI TICONA, NATALI FABIOLA                          2611.290
+     7     76737830     APAZA APAZA, JANETH MARIELA                             2599.180
+     8     70765846     HILARI NINA, MIGUEL ANGEL                               2574.170
+     9     75876809     QUISPE VELASQUEZ, LUZMILA LISBETH                       2568.490
+     10    60417316     CHAHUA JACINTO, MIRIAM LILY                             2552.120
+     11    78197685     MAMANI ARIACA, MILAGROS JUANA                           2513.260
+     12    71348571     QUISPE TURPO, FAVIOLA NERY                              2510.678
+     13    60759200     PERCA TARQUI, ALBERTO SIMON                             2509.140
+     14    76986561     YUCRA QUISPE, EDISON OMAR                               2497.710
+     15    71413322     MITA QUISPE, YAJAHIRA SOFIA                             2488.970
+     16    74887673     CUCHO QUISPE, EMYLE MADILENA                            2475.590
+     17    74152907     PEÑALOZA RAMOS, LUZMERY                                 2429.236
+     18    60982833     GOMEZ CALLA, SHAMIRA KATHERINE                          2421.210
+     19    77129839     VENTURA VILCA, MOISES ANDREE                            2403.560
+     20    75966183     PINEDA FLORES, ANDY JOHAN                               2391.340
+     21    73744784     CONDORI LOPE, LISBETH LUCERO                            2389.560
+     22    75412948     QUISPE RAMOS, ALVARO ERICK                              2369.702
+     23    74227205     CRUZ PACOMPIA, LEYDI DIANA                              2368.874
+     24    72119349     COLQUEHUANCA PARI, DANIA                                2345.450
+     25    71644683     NINA MAMANI, RODY EUDIS                                 2339.906
+     26    60456203     CONDORI CHOQUE, NADINE                                  2332.130
+     27    75421071     MAMANI CHURA, SAUL BRAYAN                               2327.558
+     28    71015527     CHARAJA HUMPIRI, KATHERINE YAMELI                       2327.520
+     29    73645863     SILVESTRE MAMANI, JUAN RONALDO                          2326.240
+     30    60983299     VILLASANTE SANDOVAL, ALEX GABRIEL                       2320.490
+     31    74807677     VELA SANTOS, DIANA PATRICIA                             2319.450
+     32    76090030     CHURA TUPA, LUZDELIA ESTEFANY                           2312.950
+     33    71348628     AROAPAZA CRUZ, YOSELIN ESTEFANY                         2296.242
+     34    60983017     QUISPE CRUZ, RAUL ANTONIO                               2293.070
+     35    60536697     GOMEZ MELENDEZ, FIDEL ERNESTO                           2286.000
+     36    60982882     MENESES ZEA, BRITNEY LUANA                              2282.390
+     37    77044389     YANA CARCASI, KARINA LUZMERI                            2280.220
+     38    73523552     CARLO YUPANQUI, REYNA ERIKA                             2273.460
+     39    76454431     GALLEGOS ORTIZ, MILAGROS JUANA                          2268.940
+     40    60758694     ARCATA GUTIERREZ, LENIN ERASMO                          2265.014
+     41    70501282     MAMANI QUISPE, KELLY ALIBETH                            2248.940
+     42    77143774     PANCAYA AROAPAZA, LAURA ADAIA                           2247.030
+     43    75463663     RAMOS ARPE, RUTH ESPERANZA                              2245.300
+     44    60732750     CATACHURA PARI, LEYDI MAYELY                            2240.670
+     45    77350254     ALVAREZ DE LA CRUZ, YUDITH ANAIS                        2239.620
+     46    60983243     QUISPE CHURA, NAYELY MILAGROS                           2224.390
+     47    60836663     COLQUEHUANCA HANCCO, GUSTAVO ADOLFO                     2219.320
+     48    60983169     BEDOYA TICONA, HECTOR ABEL                              2214.758
+     49    60204031     FLORES APAZA, MARGARET YACQUELINE                       2212.170
+     50    72810389     LERMA HURTADO, ARIANA SOLANGE                           2201.820
+     51    73367569     CHATA HUANCA, ANGELES SELENE                            2200.930
+     52    60983013     TITO PINEDA, JOSSELYN GABRIELA                          2200.732
+     53    75396854     CCARITA MAMANI, JOSE LUIS                               2200.350
+     54    72184069     MACHACA COLQUEHUANCA, BRANCO BRIDGMAN ERICKSON          2194.582
+     55    60758733     MAQUERA PARI, JUAN CARLO                                2193.000
+     56    72363526     ORNA DURAND, MYLEN ANANI                                2190.010
+     57    60759259     ALANOCA MAMANI, JOHN BRAYAN                             2188.480
+     58    60214860     RAMOS ZEVALLOS, MARGOTH                                 2183.750
+     59    60983305     SERPA CURO, BRAYAN STEVEN                               2180.820
+     60    46862922     MOLINA PINEDA, EDWIN VICTOR                             2178.580
+     61    70338100     QUENALLATA RAMOS, ROCIO JEANET                          2176.790
+     62    74837728     SILVA ANAHUA, LIZET HELEN                               2168.762
+     63    60759263     CALLE BENIQUE, ALAIN RODRIGO                            2168.490
+     64    60758974     TURPO PANCA, KING DEIVIS                                2163.830
+     65    61000524     MALLQUI BENAVENTE, ALFRED EDU                           2159.460
+     66    72051624     MUÑOZ CUEVAS, YOBANCA MARELIN                           2153.940
+     67    61952031     QUISPE QUISPE, YOVANI ALEXIS                            2145.710
+     68    71653957     CATARI CCUNO, SANDRA BEATRIZ                            2144.690
+     69    71877684     PUMA CHOQUEHUAYTA, MAJU JHOANA                          2138.308
+     70    00728601     MARIN MARIN, MARIO HERNAN                               2137.120
+     71    60178709     MAMANI CAXI, ADA LUZ                                    2135.810
+     72    60836489     CUELA PARICAHUA, JENIFER SHENDA                         2135.060
+     73    74504058     CONDORI PHOCCO, RUTH NATALIA                            2132.430
+     74    60850125     PENALOZA SUAÑA, TOMMY ALESSANDRO                        2125.860
+     75    72384586     PAREDES MONTEAGUDO, MELISSA KAROL                       2123.804
+     76    61254532     CORIMAYHUA QUISPE, JHON EDSON                           2120.410
+     77    60945360     QUISPE CALISAYA, EVELYN NATALIA                         2115.720
+     78    73820088     DIANDERAS JOVE, MILAGROS DAYANA CANDELARIA              2115.490
+     79    60850745     MANZANO BARRIOS, LIZ ANGELA                             2114.380
+     80    74654104     CHURA CHURA, RUTH MILAGROS                              2113.770
+     81    74761168     PONCE QUISPE, YENNY MARIA                               2111.130
+     82    71913989     FLORES LARA, KEVIN EMANUEL                              2105.000
+     83    60758630     ESCOBAR FLORES, LEONEL JHOSAFAT                         2104.710
+     84    60983348     SULLCA ORTEGA, NICOL ADRIANA                            2104.640
+     85    60759260     QUISPE PEREZ, ROSALINDA MARIEL                          2099.998
+     86    60850349     CANLLAHUI NINA, MAYELYN YAMILETH                        2099.720
+     87    75282944     MAYTA PUMA, WASHINTON                                   2095.040
+     88    60908981     SANCA QUISPE, DERY MILAGROS                             2086.406
+     89    61584250     SANCHEZ SUCASACA, LUZ DELIA                             2078.704
+     90    73697283     TORRES CONDORI, LILIANA                                 2074.164
+     91    73751729     VELASQUEZ NINA, YANIL NAOMI                             2066.120
+     92    60909553     BRAVO LOPEZ, CESAR AGUSTO                               2065.140
+ ========================================================================================
+ 2024/08/03 03:35:33 PM
