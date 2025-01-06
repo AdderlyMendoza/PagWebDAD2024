@@ -154,6 +154,10 @@
               <div class="mb-5 text-white desc mx-auto" data-aos="fade-up" data-aos-delay="200">
                 <h1 class="mb-4 heading text-white" data-aos="fade-up" data-aos-delay="100">Examen EXTRAORDINARIO 2025</h1>
               </div>
+              <div data-aos="fade-up" data-aos-delay="150" class="text-center">
+                <h4 class="text-white mb-4 fs-4 fw-bold">Tiempo restante para Preinscripciones:</h4>
+                <h1><div id="countdown" class=" text-white display-8 fw-bolder"></div></h1>
+              </div>
 
               <p class="mb-0" data-aos="fade-up" data-aos-delay="300">
                 <!-- <a href="#" class="btn btn-danger" style="color: white; background-color: #a23720;">Preinscripción</a> -->
@@ -168,6 +172,32 @@
     </div>
 
   </div>
+
+  <script>
+    function updateCountdown() {
+      const targetDate = new Date('January 20, 2025 00:00:00');
+    
+      const interval = setInterval(() => {
+        const now = new Date();
+        const difference = targetDate - now;
+    
+        const days = Math.floor(difference / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((difference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((difference % (1000 * 60)) / 1000);
+    
+        document.getElementById('countdown').innerHTML = 
+          `${days} días ${hours} horas ${minutes} minutos ${seconds} segundos`;
+    
+        if (difference < 0) {
+          clearInterval(interval);
+          document.getElementById('countdown').innerHTML = 'Tiempo finalizado';
+        }
+      }, 1000);
+    }
+    
+    document.addEventListener('DOMContentLoaded', updateCountdown);
+    </script>
 
   <!-- REQUISITOS -->
   <style>
