@@ -168,7 +168,7 @@
               <h1 class="mb-4 heading text-white" data-aos="fade-up" data-aos-delay="100">EXAMEN EXTRAORDINARIO 2025</h1>
             </div>
             <div data-aos="fade-up" data-aos-delay="150" class="text-center">
-              <h4 class="text-white mb-4 fs-4 fw-bold">Tiempo restante para Preinscripciones:</h4>
+              <h5 class="text-white mb-4 fs-4 fw-bold">Tiempo restante para Preinscripciones:</h5>
               <h1><div id="countdown" class=" text-white display-8 fw-bolder"></div></h1>
             </div>
             <br>
@@ -199,7 +199,8 @@
   
       document.getElementById('countdown').innerHTML = 
         `${days} días ${hours} horas ${minutes} minutos ${seconds} segundos`;
-  
+        //`${days} días ${hours} horas`;
+
       if (difference < 0) {
         clearInterval(interval);
         document.getElementById('countdown').innerHTML = 'Tiempo finalizado';
