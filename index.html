@@ -143,7 +143,7 @@
               <!-- <a href="https://inscripciones.admision.unap.edu.pe/ver-puntaje-alcanzado"
                 class=" btn btn-danger btn-sm ml-auto">extraordinario-2025</a>  -->
                 <a href="examExtra.html"
-                class=" btn btn-danger btn-sm ml-auto">extraordinario-2025</a>
+                class=" btn btn-danger btn-sm ml-auto">extraordinario 2025</a>
 
             </div>
           </nav>
@@ -171,13 +171,32 @@
               <h3 style="color: #bfff00; font-size: 40px;"  data-aos="fade-up" data-aos-delay="100" > <strong>22 Y 23 DE FEBRERO <br> EXAMEN CEPREUNA 2025-I</strong></h3>
                 <!-- <p class="text-white small" data-aos="fade-up" data-aos-delay="100">Nota: Solo para los postulantes a Educación Física y Medicina Humana.
                 El servicio médico de la UNA-Puno atiende de lunes a viernes, de 7:30 a.m. a 2:30 p.m.</p> -->
-              <!-- <h4 class="text-white mb-4 fs-4 fw-bold">Las Preinscripciones comienzan en:</h4> -->
+              <h4 class="text-white mb-4 fs-4 fw-bold">Las Preinscripciones comienzan en:</h4>
               <!-- <h3><div id="countdown" class=" text-white display-10 fw-bolder"></div></h3> -->
               <!-- <a href="examExtra.html" class="btn btn-primary"
                 style="background-color: #222cb6; border-color: #0c0a0f;">MAS INFORMACIÓN</a> -->
-                <div id="countdown" class="text-white my-4"></div>
+                <!-- <div id="countdown" class="text-white my-4"></div> -->
+                <div id="countdown-timer" class="d-flex justify-content-center">
+                  <div class="time-box mx-2">
+                  <div id="days" class="time"></div>
+                  <div class="label">Días</div>
+                  </div>
+                  <div class="time-box mx-2">
+                  <div id="hours" class="time"></div>
+                  <div class="label">Horas</div>
+                  </div>
+                  <div class="time-box mx-2">
+                  <div id="minutes" class="time"></div>
+                  <div class="label">Minutos</div>
+                  </div>
+                  <div class="time-box mx-2">
+                  <div id="seconds" class="time"></div>
+                  <div class="label">Segundos</div>
+                  </div>
+                </div>
                 <!-- <p style="font-size: 20px;">🚨¡IMPORTANTE!🚨</p>
                 <p style="backdrop-filter: blur(50px); padding: 10px; border-radius: 10px;"> <strong class="text-warning"> Hora de ingreso: 02:00 p.m. a 03:30 p.m </strong><br> <strong style="color:#4deeea">Lugar de ingreso: Puerta de INGENIERÍAS (Puerta Camal).</strong></p> -->
+                <br>
                 <a href="examCepre.html" class="btn btn-primary"
                 style="background-color: #222cb6; border-color: #0c0a0f;">MAS INFORMACIÓN</a>
               </div>
@@ -196,7 +215,68 @@
   </div>
 </div>
 
+
+<style>
+  #countdown-timer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Inter', sans-serif;
+  }
+  .time-box {
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(10px);
+  width: 100px;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  }
+  .time {
+  font-size: 2rem;
+  font-weight: bold;
+  }
+  .label {
+  font-size: 0.8rem;
+  margin-top: 5px;
+  }
+</style>
 <script>
+  function updateCountdown() {
+    const targetDate = new Date('February 10, 2025 00:00:00');
+    const interval = setInterval(() => {
+      const now = new Date();
+      const difference = targetDate - now;
+
+      const days = Math.floor(difference / (1000 * 60 * 60 * 24));
+      const hours = Math.floor((difference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const minutes = Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60));
+      const seconds = Math.floor((difference % (1000 * 60)) / 1000);
+
+      document.getElementById('days').innerText = days;
+      document.getElementById('hours').innerText = hours;
+      document.getElementById('minutes').innerText = minutes;
+      document.getElementById('seconds').innerText = seconds;
+
+      if (difference < 0) {
+        clearInterval(interval);
+        document.getElementById('countdown-timer').innerHTML = 'Inicio las Preinscripciones';
+      }
+    }, 1000);
+  }
+
+  document.addEventListener('DOMContentLoaded', updateCountdown);
+</script>
+
+
+
+
+<!-- <script>
   function updateCountdown() {
     const targetDate = new Date('February 10, 2025 00:00:00');
   
@@ -221,7 +301,7 @@
   }
   
   document.addEventListener('DOMContentLoaded', updateCountdown);
-  </script>
+  </script> -->
   <!-- PANTALLA DE INICIO -->
   <!-- <div class="untree_co-hero overlay" style="background-image: url('images/hero-img-1-min.jpg');"> -->
   <!-- <div class="untree_co-hero overlay"
