@@ -171,27 +171,27 @@
               <h4 style="color: #bfff00; font-size: 40px;"  data-aos="fade-up" data-aos-delay="100" > <strong>22 Y 23 DE FEBRERO <br> EXAMEN CEPREUNA 2025-I</strong></h4>
                 <!-- <p class="text-white small" data-aos="fade-up" data-aos-delay="100">Nota: Solo para los postulantes a Educación Física y Medicina Humana.
                 El servicio médico de la UNA-Puno atiende de lunes a viernes, de 7:30 a.m. a 2:30 p.m.</p> -->
-              <h4 class="text-white mb-4 fs-4 fw-bold">Las Preinscripciones comienzan en:</h4>
+              <!-- <h4 class="text-white mb-4 fs-4 fw-bold">Las Preinscripciones comienzan en:</h4> -->
               <!-- <h3><div id="countdown" class=" text-white display-10 fw-bolder"></div></h3> -->
               <!-- <a href="examExtra.html" class="btn btn-primary"
                 style="background-color: #222cb6; border-color: #0c0a0f;">MAS INFORMACIÓN</a> -->
                 <!-- <div id="countdown" class="text-white my-4"></div> -->
-                <div id="countdown-timer" class="text-center text-white"><span id="days"></span> Días <span id="hours"></span> Horas <span id="minutes"></span> Minutos <span id="seconds"></span> Segundos</div>
-                
+                <!-- <div id="countdown-timer" class="text-center text-white"><span id="days"></span> Días <span id="hours"></span> Horas <span id="minutes"></span> Minutos <span id="seconds"></span> Segundos</div>
+                 -->
                 <!-- <p style="backdrop-filter: blur(50px); padding: 10px; border-radius: 10px;"> <strong class="text-warning"> Hora de ingreso: 02:00 p.m. a 03:30 p.m </strong><br> <strong style="color:#4deeea">Lugar de ingreso: Puerta de INGENIERÍAS (Puerta Camal).</strong></p> -->
           
-                <div><a href="examCepre.html" class="btn btn-primary"
+                <!-- <div><a href="examCepre.html" class="btn btn-primary"
                   style="background-color: #222cb6; border-color: #0c0a0f;">MAS INFORMACIÓN</a></div>
-              </div>
+              </div> -->
               
               
             
-            <!-- <p class="mb-0" data-aos="fade-up" data-aos-delay="300">
-              <a href="examExtra.html" class="btn btn-primary"
+            <p class="mb-0" data-aos="fade-up" data-aos-delay="300">
+              <a href="examCepre.html" class="btn btn-primary"
               style="background-color: #222cb6; border-color: #0c0a0f;">MAS INFORMACIÓN</a>
-              <button id="btnPreinscripcion" href="https://inscripciones.admision.unap.edu.pe/extraordinario-2025/preinscripcion" class="btn btn-primary mt-2 mt-lg-0"
+              <button id="btnPreinscripcion" href="https://inscripciones.admision.unap.edu.pe/cepreuna-2025-I/preinscripcion" class="btn btn-primary mt-2 mt-lg-0"
               style="background-color: #4e68db; border-color: #0c0a0f;">Preinscripciones</button>
-            </p> -->
+            </p>
 
           </div>
         </div>
@@ -327,8 +327,8 @@
     $(document).ready(function () {
       $('#btnPreinscripcion').click(function () {
         Swal.fire({
-          title: '¿Preinscripción al EXAMEN EXTRAORDINARIO 2025?',
-          text: 'Inicio INSCRIPCIÓN PRESENCIAL 27, 28 y 29 de enero del 2025.',
+          title: '¿Preinscripción al EXAMEN CEPREUNA 2025?',
+          text: 'Inicio INSCRIPCIÓN PRESENCIAL 14, 17, 18 de febrero Y rezagados el 19 de febrero del 2025.',
           icon: 'warning',
           showCancelButton: true,
           confirmButtonColor: '#3085d6',
@@ -339,7 +339,7 @@
           if (result.isConfirmed) {
             // Aquí puedes manejar la acción de confirmación, como enviar un formulario o redirigir
             // Swal.fire('¡Preinscripción realizada!', 'Has sido preinscrito correctamente.', 'success');
-            window.location.href = 'https://inscripciones.admision.unap.edu.pe/extraordinario-2025/preinscripcion';
+            window.location.href = 'https://inscripciones.admision.unap.edu.pe/cepreuna-2025-I/preinscripcion';
             
           }
         });
